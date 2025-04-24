@@ -1,6 +1,4 @@
-Sure! Here's a clean and appealing `README.md` for your **Valentino** project—a Valentine-themed website built with HTML:
 
----
 
 # 💘 Valentino
 
